@@ -1,4 +1,4 @@
-# ipp-webapps-v3
+# vue-3-tailwind-2-boilerplate
 
 ## Project setup
 ```
