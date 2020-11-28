@@ -3,6 +3,9 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
+  <div class="bg-white dark:bg-gray-800">
+  <div class="p-3 text-gray-900 dark:text-white">test</div>
+  </div>
   <router-view />
 </template>
 
